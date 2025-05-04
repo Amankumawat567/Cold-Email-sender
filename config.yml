@@ -1,0 +1,21 @@
+your_details:
+  Your Name: "Aman Kumawat"
+  Your Degree: "B.Tech"
+  Your University: "Malaviya National Institute of Technology Jaipur (MNIT)"
+  Professional Experience: "interned as an <b>ML Engineer</b> at <b>Pratham Software (PSI)</b> and currently at <b>MoveInSync</b>"
+  Tech Skills: "NLP, Advanced RAG, and Langchain"
+  Relevant Skills/Field: "Al, ML, and software development"
+  Specific Role: "AI/ML Engineer, SDE, or Data Scientist"
+  Your Contact Information: "Phone no: +91 9829227309"
+  Linkedin Profile: "https://www.linkedin.com/in/aman-kumawat-423317273/"
+
+smtp:
+  server: "smtp.gmail.com"
+  port: 465
+  sender_email: "amankumawat567@gmail.com"
+  sender_password: "dzdv bzgt feqv hlzh"
+
+files:
+  email_template: "temp.html"
+  resume: "Resume.pdf"
+  email_list: "test.csv"
