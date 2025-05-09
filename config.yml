@@ -12,8 +12,8 @@ your_details:
 smtp:
   server: "smtp.gmail.com"
   port: 465
-  sender_email: "amankumawat567@gmail.com"
-  sender_password: "dzdv bzgt feqv hlzh"
+  sender_email: "youremail@example.com"
+  sender_password: "app password"
 
 files:
   email_template: "temp.html"
